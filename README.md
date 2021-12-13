@@ -12,6 +12,7 @@
 
 
 ## IRB Buffer Size
+Results : 1000 slowest convergance, highest score (may be random), 100000 fastest convergance, average score
 ### 1000
 18.46721597671204 + -38.23840095531169*exp(-(x-245.29428559174966)^2/(2*468.24667598188444^2) )
 ### 10000
